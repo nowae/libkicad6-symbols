@@ -5,7 +5,7 @@ This document contains our rules to design schematic symbols and is more or less
 
 ## Symbol libraries files
 
-Symbol libraries are individual `.lib` files.
+Symbol libraries are individual `.kicad_sym` files.
 Symbol library names must be defined based on the priority list below, with each element separated by the underscore character:
 * Function (e.g. Sensor, Amplifier, MCU)
 * Sub-function (e.g. Temperature, CurrentSense)

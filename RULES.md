@@ -40,6 +40,10 @@ Symbol library names must be defined based on the priority list below, with each
 
 * For symbols with multiple units that are drawn separately, where the units share common power pins, the power pins must be added to the first part (A).
 
+* Footprint field position: X=0 Y=1.27mm
+  
+* Datasheet field position: X=0 Y=-1.27mm
+
 ## Pin requirements
 
 * Using a `2.54mm` grid, pin origin must lie on a grid node (IEC-60617),

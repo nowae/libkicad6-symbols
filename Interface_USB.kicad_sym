@@ -6,7 +6,7 @@
     (property "Value" "CP2102N-A02-GQFN24" (id 1) (at 0 20.32 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at 0 0 0)
+    (property "Footprint" "Package_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf" (id 3) (at 0 0 0)

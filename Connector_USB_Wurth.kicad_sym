@@ -6,7 +6,7 @@
     (property "Value" "632723300011" (id 1) (at 0 -29.21 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "CONNECTOR:USB3.1-C_WE-632723300011" (id 2) (at -1.27 2.54 0)
+    (property "Footprint" "Connector_USB_Wurth:632723300011" (id 2) (at -1.27 2.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.we-online.de/katalog/datasheet/632723300011.pdf" (id 3) (at 2.54 0 0)
